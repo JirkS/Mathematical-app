@@ -5,7 +5,8 @@
 - po spuštění se zobrazí nabídka o 6 bodech pro různé typy matematických příkladů.
 - výberem "1" - "6" se zobrazí další příslušné úkony a potřebné hodnoty k zadání pro vybraný typ příkladu.
 - zadáním "X" se uplikace ukončí
-- - program nelze v žádném případě schodit
+- program nelze v žádném případě schodit
+- aplikace většinou využívá regex pro kontrolu zadané hodnoty
 
 ### Typy příkladů
 - jednoduché převody jednotek, které program podporuje
