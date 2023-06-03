@@ -7,7 +7,7 @@
 - zadáním "X" se uplikace ukončí
 - - program nelze v žádném případě schodit
 
-## Typy příkladů
+### Typy příkladů
 - jednoduché převody jednotek, které program podporuje
 - operace pravoúhlého trojúhelníku - zadání např. 2 odvěsen / přepony a oděsny / úhlu a odvěsny / úhlu a přepony - výpočet všech dalšách hodnot
 - převody mezi čáselnými soustavami (HEX, DEC, BIN) - zadá se jedno číslo v jedné soustavě a program ho převede do zbylých dvou
